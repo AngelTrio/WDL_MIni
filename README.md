@@ -33,8 +33,8 @@ To view individual pages click on the respective Link.
 - <a href="https://angeltrio.github.io//Experiment3/registration.html">Registraton - Page</a> Contributor - <b>Zarin Khan</b>
 - <a href="https://angeltrio.github.io//Experiment3/home.html">Login - Page</a> Contributor - <b>Zarin Khan</b>
 - <a href="https://angeltrio.github.io//Experiment3/awareness.html">Awareness - Page</a> Contributor - <b>Shruti Nair</b>
-- <a href="https://angeltrio.github.io//about.html">About us - Page</a> Contributor - <b>Asiya Pathan</b>
-- <a href="https://angeltrio.github.io//contact.html">Contact Us- Page</a> Contributor - <b>Asiya Pathan</b>
+- <a href="https://angeltrio.github.io//Experiment3/about.html">About us - Page</a> Contributor - <b>Asiya Pathan</b>
+- <a href="https://angeltrio.github.io//Experiment3/contact.html">Contact Us- Page</a> Contributor - <b>Asiya Pathan</b>
 
 ## Note:
 
