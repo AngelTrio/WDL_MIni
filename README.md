@@ -21,7 +21,7 @@ To view individual pages click on the respective Link.
 ### > Experiment 2 :
 
 - <a href="https://angeltrio.github.io/Experiment2/home.html">Home - Page</a> Contributor - <b>Shruti Nair</b>
-- <a href="https://angeltrio.github.io/Experiment2/registration.html">Registraton - Page</a> Contributor - <b>Zarin Khan</b>
+- <a href="https://angeltrio.github.io/Experiment2/register.html">Registraton - Page</a> Contributor - <b>Zarin Khan</b>
 - <a href="https://angeltrio.github.io/Experiment2/home.html">Login - Page</a> Contributor - <b>Zarin Khan</b>
 - <a href="https://angeltrio.github.io/Experiment2/awarness.html">Awareness - Page</a> Contributor - <b>Shruti Nair</b>
 - <a href="https://angeltrio.github.io/Experiment2/about.html">About us - Page</a> Contributor - <b>Asiya Pathan</b>
@@ -30,7 +30,7 @@ To view individual pages click on the respective Link.
 ### > Experiment 3 :
 
 - <a href="https://angeltrio.github.io//Experiment3/home.html">Home - Page</a> Contributor - <b>Shruti Nair</b>
-- <a href="https://angeltrio.github.io//Experiment3/registration.html">Registraton - Page</a> Contributor - <b>Zarin Khan</b>
+- <a href="https://angeltrio.github.io//Experiment3/register.html">Registraton - Page</a> Contributor - <b>Zarin Khan</b>
 - <a href="https://angeltrio.github.io//Experiment3/home.html">Login - Page</a> Contributor - <b>Zarin Khan</b>
 - <a href="https://angeltrio.github.io//Experiment3/awareness.html">Awareness - Page</a> Contributor - <b>Shruti Nair</b>
 - <a href="https://angeltrio.github.io//Experiment3/about.html">About us - Page</a> Contributor - <b>Asiya Pathan</b>
