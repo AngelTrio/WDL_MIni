@@ -14,9 +14,9 @@ To view individual pages click on the respective Link.
 
 ### > Experiment 1 :
 
-- <a href="https://github.com/AngelTrio/WDL_Mini/Experiment1/shruti.pdf">18CO08 Shruti.pdf</a>
-- <a href="https://github.com/AngelTrio/WDL_Mini/Experiment1/asiya.pdf">18CO09 Asiya.pdf</a>
-- <a href="https://github.com/AngelTrio/WDL_Mini/Experiment1/zarin.pdf">18CO05 Zarin.pdf</a>
+- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Shruti/Experiment1/shruti.pdf">18CO08 Shruti.pdf</a>
+- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Asiya/Experiment1/asiya.pdf">18CO09 Asiya.pdf</a>
+- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Zarin/Experiment1/zarin.pdf">18CO05 Zarin.pdf</a>
 
 ### > Experiment 2 :
 
