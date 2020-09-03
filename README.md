@@ -14,27 +14,27 @@ To view individual pages click on the respective Link.
 
 ### > Experiment 1 :
 
-- <a href="https://github.io/AngelTrio/WDL_Mini/Experiment1/shruti.pdf">18CO08 Shruti.pdf</a>
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Asiya/Experiment1/asiya.pdf">18CO09 Asiya.pdf</a>
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Zarin/Experiment1/zarin.pdf">18CO05 Zarin.pdf</a>
+- <a href="https://angeltrio.github.io/Experiment1/shruti.pdf">18CO08 Shruti.pdf</a>
+- <a href="https://angeltrio.github.io/Experiment1/asiya.pdf">18CO09 Asiya.pdf</a>
+- <a href="https://angeltrio.github.io/Experiment1/zarin.pdf">18CO05 Zarin.pdf</a>
 
 ### > Experiment 2 :
 
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Shruti/Experiment2/home.html">Home - Page</a> Contributor - <b>Shruti Nair</b>
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Zarin/Experiment2/registration.html">Registraton - Page</a> Contributor - <b>Zarin Khan</b>
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Zarin/Experiment2/home.html">Login - Page</a> Contributor - <b>Zarin Khan</b>
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Shruti/Experiment2/awarness.html">Awareness - Page</a> Contributor - <b>Shruti Nair</b>
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Asiya/Experiment2/about.html">About us - Page</a> Contributor - <b>Asiya Pathan</b>
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Asiya/Experiment2/contact.html">Contact Us- Page</a> Contributor - <b>Asiya Pathan</b>
+- <a href="https://angeltrio.github.io/Experiment2/home.html">Home - Page</a> Contributor - <b>Shruti Nair</b>
+- <a href="https://angeltrio.github.io/Experiment2/registration.html">Registraton - Page</a> Contributor - <b>Zarin Khan</b>
+- <a href="https://angeltrio.github.io/Experiment2/home.html">Login - Page</a> Contributor - <b>Zarin Khan</b>
+- <a href="https://angeltrio.github.io/Experiment2/awarness.html">Awareness - Page</a> Contributor - <b>Shruti Nair</b>
+- <a href="https://angeltrio.github.io/Experiment2/about.html">About us - Page</a> Contributor - <b>Asiya Pathan</b>
+- <a href="https://angeltrio.github.io/Experiment2/contact.html">Contact Us- Page</a> Contributor - <b>Asiya Pathan</b>
 
 ### > Experiment 3 :
 
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Shruti/Experiment3/home.html">Home - Page</a> Contributor - <b>Shruti Nair</b>
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Zarin/Experiment3/registration.html">Registraton - Page</a> Contributor - <b>Zarin Khan</b>
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Zarin/Experiment3/home.html">Login - Page</a> Contributor - <b>Zarin Khan</b>
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Shruti/Experiment3/awareness.html">Awareness - Page</a> Contributor - <b>Shruti Nair</b>
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Asiya/Experiment3/about.html">About us - Page</a> Contributor - <b>Asiya Pathan</b>
-- <a href="https://github.com/AngelTrio/WDL_Mini/blob/Asiya/Experiment3/contact.html">Contact Us- Page</a> Contributor - <b>Asiya Pathan</b>
+- <a href="https://angeltrio.github.io//Experiment3/home.html">Home - Page</a> Contributor - <b>Shruti Nair</b>
+- <a href="https://angeltrio.github.io//Experiment3/registration.html">Registraton - Page</a> Contributor - <b>Zarin Khan</b>
+- <a href="https://angeltrio.github.io//Experiment3/home.html">Login - Page</a> Contributor - <b>Zarin Khan</b>
+- <a href="https://angeltrio.github.io//Experiment3/awareness.html">Awareness - Page</a> Contributor - <b>Shruti Nair</b>
+- <a href="https://angeltrio.github.io//about.html">About us - Page</a> Contributor - <b>Asiya Pathan</b>
+- <a href="https://angeltrio.github.io//contact.html">Contact Us- Page</a> Contributor - <b>Asiya Pathan</b>
 
 ## Note:
 
