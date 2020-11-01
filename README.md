@@ -44,15 +44,6 @@ To view individual pages click on the respective Link.
 - <a href="https://angeltrio.github.io//Experiment4/about.html">About us - Page</a> Contributor - <b>Asiya Pathan</b>
 - <a href="https://angeltrio.github.io//Experiment4/contact.html">Contact Us- Page</a> Contributor - <b>Asiya Pathan</b>
 
-### > Experiment 5 :
-
-- <a href="https://angeltrio.github.io//Experiment5/home.php">Home - Page</a> Contributor - <b>Shruti Nair</b>
-- <a href="https://angeltrio.github.io//Experiment5/register.php">Registraton - Page</a> Contributor - <b>Zarin Khan</b>
-- <a href="https://angeltrio.github.io//Experiment5/home.php">Login - Page</a> Contributor - <b>Zarin Khan</b>
-- <a href="https://angeltrio.github.io//Experiment5/symptoms.php">Awareness - Page</a> Contributor - <b>Shruti Nair</b>
-- <a href="https://angeltrio.github.io//Experiment5/about.php">About us - Page</a> Contributor - <b>Asiya Pathan</b>
-- <a href="https://angeltrio.github.io//Experiment5/contact.php">Contact Us- Page</a> Contributor - <b>Asiya Pathan</b>
-
 ## Note:
 
 To know Individual Contribution of the project you can visit the branches via below links :
