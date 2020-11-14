@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=Allura|Josefin+Sans');
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #55ffe5;
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
+}
+.container{
+	width: 80%;
+	margin: 50px auto;
+}
+.contact-box{
+	background: #ffff;
+	display: flex;
+	box-shadow:  0 20px 20px rgba(0,0,0,.3)
+}
+.contact-left{
+	flex-basis: 100%;
+	padding: 40px 60px;
+	background-color: #e9ecef;
+}
+h1{
+	margin-bottom: 30px;
+}
+.container p{
+	margin-bottom: 30px;
+}
+.input-row{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+.input-row .input-group{
+	flex-basis: 46%;
+}
+
+input{
+	width: 100%;
+	border:none;
+	border-bottom: 1px solid #ccc;
+	outline: none;
+	padding-bottom: 5px;
+}
+textarea{
+	width: 100%;
+	border: 1px solid #ccc;
+	outline: none;
+	padding: 10px;
+	box-sizing: border-box;
+}
+label{
+	margin-bottom: 6px;
+	display: block;
+	color: #1c00b5;
+}
+button{
+	background: #1c00b5;
+	width: 100px;
+	border: none;
+	outline: none;
+	color: #ffff;
+	height: 35px;
+	border-radius: 30px;
+	margin-top: 20px;
+	box-shadow: 0px 5px 15px 0px rgba(28,0,181,0.3);
+}
+.contact-left h3{
+	color: #1c00b5;
+	font-weight: 600;
+	margin-bottom: 30px;
+}
+.contact-right h3{
+	font-weight: 600;
+	margin-bottom: 30px;
+}
+.cont{
+	width: 100%;
+	margin: auto;
+	overflow: hidden;
+}
+
+.social-icons img{
+    width:30px;
+    margin:0 10px;
+    box-shadow:0 0 20px 0 #7f7f7f3d;
+    cursor:pointer;
+    border-radius: 50%;
+}
+
+
+@media screen and (max-width: 1060px) {
+    #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}  
+}
+/* Tabled Portrait */
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
+}
+
