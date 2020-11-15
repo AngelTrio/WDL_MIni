@@ -8,6 +8,11 @@ Click to view the directory in the current Repository.
 - <a href="https://github.com/AngelTrio/WDL_Mini/tree/master/Experiment2">Experiment 2 - Create Simple web page using HTML5</a>
 - <a href="https://github.com/AngelTrio/WDL_Mini/tree/master/Experiment3">Experiment 3 - Design and Implement web page using CSS3 and HTML5</a>
 - <a href="https://github.com/AngelTrio/WDL_Mini/tree/master/Experiment4">Experiment 4 - Form Design and Client Side Validation using : a. Javascript and HTML5 b. Javascript and JQuery </a>
+- <a href="https://github.com/AngelTrio/WDL_Mini/tree/master/Experiment5">Experiment 5 - Develop simple web page using PHP</a>
+- <a href="https://github.com/AngelTrio/WDL_Mini/tree/master/Experiment6">Experiment 6 - Develop interactive web pages using PHP with database connectivity MYSQL</a>
+- <a href="https://github.com/AngelTrio/WDL_Mini/tree/master/Experiment7">Experiment 7 - Develop XML web page using DTD, XSL</a>
+- <a href="https://github.com/AngelTrio/WDL_Mini/tree/master/Experiment8">Experiment 8 - Implement a webpage using Ajax and PHP</a>
+- <a href="https://github.com/AngelTrio/WDL_Mini/tree/master/Experiment9">Experiment 9 - Hosting the website with Domain Registration Process.</a>
 
 ## Detailed View:
 
