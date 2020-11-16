@@ -13,6 +13,7 @@ Click to view the directory in the current Repository.
 - <a href="https://github.com/AngelTrio/WDL_Mini/tree/master/Experiment7">Experiment 7 - Develop XML web page using DTD, XSL</a>
 - <a href="https://github.com/AngelTrio/WDL_Mini/tree/master/Experiment8">Experiment 8 - Implement a webpage using Ajax and PHP</a>
 - <a href="https://github.com/AngelTrio/WDL_Mini/tree/master/Experiment9">Experiment 9 - Hosting the website with Domain Registration Process.</a>
+- <a href="https://github.com/AngelTrio/WDL_Mini/tree/master/Experiment10">Experiment 10 - Design a Web application using Laravel Framework.</a>
 
 ## Detailed View:
 
