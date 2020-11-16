@@ -1,2 +1,2 @@
-# WDL_MIni
+# WDL_Mini
 WDL miniproject
