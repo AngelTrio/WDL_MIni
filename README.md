@@ -52,7 +52,7 @@ To view individual pages click on the respective Link.
 
 ### > Experiment 10 :
 
-- <a href="#">Wdl_Final_Hosted_Site(Covid!9)</a>
+- <a href="http://awareness.infinityfreeapp.com/corona">Wdl_Final_Hosted_Site(Covid!9)</a>
 
 ## Note:
 
